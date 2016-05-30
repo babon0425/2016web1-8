@@ -4,15 +4,15 @@ body{
   background-color: mediumaquamarine;
 }
 
-.breadcrumbs li {
+.Riceball_Road li {
   display: inline;
   list-style-type: none;
 }
 
-.breadcrumbs li:before {
+.Riceball_Road li:before {
   content: " > ";
 }
 
-.breadcrumbs li:first-child:before {
+.Riceball_Road li:first-child:before {
   content:"";
 }
