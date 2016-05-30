@@ -16,3 +16,18 @@ body{
 .Riceball_Road li:first-child:before {
   content:"";
 }
+
+#Riceball_Kind ul {
+  overflow:hidden;
+}
+
+#Riceball_Kind li {
+  float: left;
+  width: 156px;
+  border-right: white 1px solid;
+  list-style-type: none;
+}
+
+#Riceball_Kind li:first-child {
+  border-left:white 1px solid;
+}
