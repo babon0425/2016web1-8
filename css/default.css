@@ -31,3 +31,17 @@ body{
 #Riceball_Kind li:first-child {
   border-left:white 1px solid;
 }
+
+#Riceball_Kind a {
+  display: block;
+  padding:10px 0;
+  text-align: center;
+  text-decoration: none;
+  background: darkgreen;
+  color: white;
+}
+
+#Riceball_Kind a:hover {
+  background: lightgreen;
+  color: black;
+}
